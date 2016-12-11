@@ -1,1 +1,1 @@
-In this project I will basically recreate Google's homepage from scratch using only html and css. In particular, this exercise will emphasize positioning, styling, use of developer tools, and will even help me become more familiar with git. 
+In this project I will basically recreate Google's homepage and search results from scratch using only html and css. 
